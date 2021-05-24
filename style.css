@@ -1,0 +1,17 @@
+*
+{
+  box-sizing: border-box;
+}
+
+#canvas1
+{
+  background-color: #24292E;
+  border: 3px solid green;
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
